@@ -3,6 +3,7 @@
 	"description": "boilerplate-npm web app",
 	"keywords": ["freecodecamp","sample web app"],
 	"name": "fcc-learn-npm-package-json",
+	"license": "free-code-camp practice",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
