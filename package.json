@@ -6,7 +6,7 @@
 	"license": "free-code-camp practice",
 	"version": "0.0.1",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.1"
 	},
 	"main": "server.js",
 	"scripts": {
